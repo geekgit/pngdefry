@@ -1,3 +1,11 @@
+/*
+pngdefry fork
+
+	[geekgit], 23-Mar-2018
+
+	Minor modifications.
+*/
+
 /* pngdefry.c v1.2 - public domain PNG reading/writing/modification, PNG writing
    See "unlicense" statement at the end of this file.
 
